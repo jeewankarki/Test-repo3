@@ -30,8 +30,10 @@ metadata:
     - url: https://example.com/alert
       title: Alerts
       icon: alert
+
 spec:
   type: service
+  definition: hello i am definition
   lifecycle: development
   owner: team-cbre
   subcomponentOf: artist-lookup
