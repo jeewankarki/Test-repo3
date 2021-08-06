@@ -30,6 +30,7 @@ metadata:
     - url: https://example.com/alert
       title: Alerts
       icon: alert
+definition: hello i am definition
 spec:
   type: service
   lifecycle: development
